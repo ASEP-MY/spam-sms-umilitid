@@ -3,10 +3,8 @@ $ rm -rf spam-sms-umilitid
 
 $ termux-setup-storage
 
-$ git clone https://github.com/ASEP-MY/spam-sms-umilitid/
+$ git clone https://github.com/ASEP-MY/spam-sms-umilitid
 
-$ cd Prem-Free
+$ cd spam-sms-umilitid
 
-$ git pull
-
-$ python temp.py
+$ python spam.py
